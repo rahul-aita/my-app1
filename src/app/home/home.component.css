@@ -1,0 +1,39 @@
+
+.container {
+   
+    background-position: center; 
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+.card-center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    top: 25%;
+    bottom: 50%;
+}
+.btn-primary{
+    background-color: orangered;
+    margin-left: 25%;
+}
+/* .card-img, .card-img-bottom, .card-img-top {
+    width: 30% !important;
+} */
+ul.a {
+    list-style-type: number;
+  }
+  .card{
+    border: none;
+  }
+  .btn{
+    background-color: orangered;
+  }
+  .center-button{
+    margin-top: 5%;
+margin-left: 50%;
+  }
+  .card-body{
+   background-repeat: no-repeat;
+  }
